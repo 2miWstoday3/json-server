@@ -1,0 +1,19 @@
+{"coord":
+{"lon":117.1573, "lat":32.7153},
+"weather":
+[{"id":711, "main":"Smoke", "description":"smoke", "icon":"50n"}],
+"base":"stations",
+"main":{"temp":294.2,
+"feels_like":293.4,
+"temp_min":290.78,
+"temp_max":296.92,
+"pressure":1016,
+"humidity":40},
+"visibility":10000,
+"wind":{"speed":2.57,"deg":270},
+"clouds":{"all":20},
+"dt":1698975281,
+"sys":{"type":1,"id":5771,"country":"US","sunrise":1698934017,"sunset":1698973040},
+"timezone":-25200,
+"id":5391811,
+"name":"San Diego","cod":200}
